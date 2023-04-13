@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
 
 html {
-  background-image: 
-  linear-gradient(#3535, #099988),
+  background-image:
+    linear-gradient(#3535, #099988),
     url("../images/letters.jpg");
   background-size: cover;
   background-position: center;
