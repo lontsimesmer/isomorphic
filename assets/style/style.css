@@ -1,13 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
 
 html {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), #099988),
-    url(../images/letters.jpg);
+  background-image:
+  linear-gradient(rgba(0, 0, 0, 50%), #099988),
+    "url(../images/letters.jpg)";
   background-size: cover;
   background-position: center;
   box-sizing: border-box;
   display: flex;
-  font-family: 'Lora', serif;
+  font-family: Lora, serif;
   justify-content: center;
   min-height: 100vh;
 }
@@ -40,7 +41,7 @@ h1 {
 input {
   background: transparent;
   color: honeydew;
-  font-family: 'Lora', serif;
+  font-family: Lora, serif;
   font-size: 18px;
   padding: 10px;
   width: 140px;
@@ -58,13 +59,13 @@ button {
   background-color: transparent;
   color: white;
   cursor: pointer;
-  font-family: 'Lora', serif;
+  font-family: Lora, serif;
   font-size: 18px;
   padding: 7px 14px;
 }
 
 button:hover {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), lightgreen);
+  background: linear-gradient(rgba(0, 0, 0, 50%), lightgreen);
   color: black;
   transition: 1s;
 }
