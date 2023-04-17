@@ -1,7 +1,7 @@
 # JS Isomorphic Strings
 Two ​strings​ str1 and str2 are called ​isomorphic​ if there is a one-to-one mapping possible for every character of str1 to every character of str2. Develop an app that checks ​two strings s and t, to determine if they are isomorphic. Two strings are isomorphic if the characters in s can be replaced to get t.
 ## App
-![strings](assets/images/strings.png)
+![isomorph](assets/images/isomorph.png)
 ### Built with
 - HTML
 - CSS

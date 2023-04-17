@@ -65,7 +65,7 @@ button {
 }
 
 button:hover {
-  background-color: palegreen;
+  background: linear-gradient(#3535, lightgreen);
   color: black;
   transition: 1s;
 }
@@ -79,5 +79,6 @@ button:hover {
   height: 150px;
   justify-content: center;
   margin: 50px auto;
+  text-align: center;
   width: 80%;
 }
